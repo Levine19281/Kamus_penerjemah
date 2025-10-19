@@ -1,0 +1,2 @@
+# Kamus_penerjemah
+python 
